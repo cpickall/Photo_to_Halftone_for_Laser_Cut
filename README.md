@@ -2,4 +2,6 @@ This Processing sketch analyzes the pixels of a digital image, converts them to 
 
 To set up the laser cutting file, import the PDF into Illustrator, Select All, and set the line width and color to the appropriate settings.
 
-![Image Template Laser Cut](https://github.com/studiocjp/photo-to-halftone/blob/master/source.jpg)
+The image shows a sample digital image, generated laser cutting template, cut wood screen, wood screen in front of a window.
+
+![Image Template Laser Cut](https://github.com/studiocjp/photo-to-halftone/blob/master/the-source.jpg)
